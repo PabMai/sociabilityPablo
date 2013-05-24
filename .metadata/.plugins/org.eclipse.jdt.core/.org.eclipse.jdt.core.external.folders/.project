@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link10</name>
+			<type>2</type>
+			<location>/opt/springsource/grail/grails-2.2.2/scripts</location>
+		</link>
+		<link>
+			<name>.link11</name>
+			<type>2</type>
+			<location>/home/pablo/.grails/2.2.2/projects/sociability/plugin-classes</location>
+		</link>
+		<link>
+			<name>.link9</name>
+			<type>2</type>
+			<location>/opt/springsource/ggts-3.2.0.RELEASE/plugins/org.grails.ide.eclipse.resources_3.2.0.201303060657-RELEASE/dsl-support</location>
+		</link>
+	</linkedResources>
+</projectDescription>

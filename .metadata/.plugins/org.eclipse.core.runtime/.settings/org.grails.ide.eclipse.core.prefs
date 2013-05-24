@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.grails.ide.eclipse.commands.JDKCheck.disable=false
+org.grails.ide.eclipse.core.COMMAND_TIMEOUT=6000000
+org.grails.ide.eclipse.core.OUTPUT_LIMIT=20000000
+org.grails.ide.eclipse.core.cleanOutput=true
+org.grails.ide.eclipse.core.launch.properties=
