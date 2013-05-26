@@ -1,0 +1,29 @@
+package ar.com.sociability
+
+//import org.springframework.web.multipart
+import org.apache.commons.net.ftp.FTPClient
+
+@Grab(group='commons-net', module='commons-net', version='2.0')
+
+class CopyOfUploadFileController {
+
+    def index() { 
+		redirect(action: "startFTP")
+	}
+
+	@Grab(group='commons-net', module='commons-net', version='3.2')
+	def startFTP()	{
+	  def ftpClient = new FTPClient()
+	  ftpClient.connect("ftp server address here")
+	  ftpClient.enterLocalPassiveMode()
+	  ftpClient.login("username","password")
+	  ftpClient.changeWorkingDirectory("directory the file is in")
+	  ftpClient.fileType=(FTPClient.BINARY_FILE_TYPE)
+	
+	  def incomingFile = new File("localfilename")
+	  incomingFile.withOutputStream { ostream ->
+		ftpClient.retrieveFile("remotefilename", ostream )
+	  }
+	  ftpClient.disconnect()
+	}
+}

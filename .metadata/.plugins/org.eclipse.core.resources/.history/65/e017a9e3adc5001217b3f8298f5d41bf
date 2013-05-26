@@ -1,0 +1,15 @@
+package ar.com.sociability
+
+//import org.springframework.web.multipart
+import org.apache.commons.net.ftp.FTPClient
+
+@Grab(group='commons-net', module='commons-net', version='2.0')
+
+class CopyOfUploadFileController {
+
+    def index() { 
+		redirect(action: "upload")
+	}
+	
+
+}

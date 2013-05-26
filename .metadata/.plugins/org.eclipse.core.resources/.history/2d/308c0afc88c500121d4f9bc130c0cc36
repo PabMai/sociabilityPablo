@@ -1,0 +1,4 @@
+<g:uploadForm action="upload">
+	<input type="file" name="archivo" />
+    <input type="submit" />
+</g:uploadForm>

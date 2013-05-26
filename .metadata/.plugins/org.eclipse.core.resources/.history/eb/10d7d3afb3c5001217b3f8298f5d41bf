@@ -1,0 +1,4 @@
+<g:form action="save" method="post" enctype="multipart/form-data">
+	<input type="file" name="archivo" />
+    <input type="submit" />
+</g:form>

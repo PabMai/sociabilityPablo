@@ -1,0 +1,24 @@
+package ar.com.sociability
+
+//import org.springframework.web.multipart
+import org.apache.commons.net.ftp.FTPClient
+
+@Grab(group='commons-net', module='commons-net', version='2.0')
+
+class CopyOfUploadFileController {
+
+    def index() { 
+		redirect(action: "upload")
+	}
+	
+	def FTPClient() {
+		connect "ftp server address here"
+		enterLocalPassiveMode()
+		login "username", "password"
+		changeWorkingDirectory "directory the file is in"
+		fileType = FTPClient.BINARY_FILE_TYPE
+		def incomingFile = new File("localfilename")
+		incomingFile.withOutputStream { ostream -> retrieveFile "remotefilename", ostream }
+		disconnect()
+	}
+}

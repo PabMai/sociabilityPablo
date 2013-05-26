@@ -1,0 +1,38 @@
+
+may 25, 2013 18:41:58.46 NEW SESSION
+may 25, 2013 18:41:58.46 
+may 25, 2013 18:41:58.46 (process:30641): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 18:41:58.67 Error: No running window found
+may 25, 2013 18:41:58.77 
+may 25, 2013 18:41:58.77 (process:30647): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 18:42:05.67 
+may 25, 2013 18:42:05.68 (firefox:30647): LIBDBUSMENU-GLIB-WARNING **: Translation has an invalid value 'I-->D' for default text direction.  Defaulting to left-to-right.
+may 25, 2013 18:42:06.54 
+may 25, 2013 18:42:06.54 (process:30685): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 18:51:41.24 
+may 25, 2013 18:51:41.24 (process:30870): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 18:51:41.32 Error: No running window found
+may 25, 2013 18:51:41.43 
+may 25, 2013 18:51:41.43 (process:30876): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 18:51:43.18 
+may 25, 2013 18:51:43.18 (firefox:30876): LIBDBUSMENU-GLIB-WARNING **: Translation has an invalid value 'I-->D' for default text direction.  Defaulting to left-to-right.
+may 25, 2013 19:08:49.46 
+may 25, 2013 19:08:49.46 (process:31018): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 19:22:27.53 
+may 25, 2013 19:22:27.53 (process:31122): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 19:22:27.60 Error: No running window found
+may 25, 2013 19:22:27.69 
+may 25, 2013 19:22:27.69 (process:31128): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 25, 2013 19:22:28.71 
+may 25, 2013 19:22:28.71 (firefox:31128): LIBDBUSMENU-GLIB-WARNING **: Translation has an invalid value 'I-->D' for default text direction.  Defaulting to left-to-right.
+
+may 26, 2013 24:29:19.48 NEW SESSION
+may 26, 2013 24:29:19.48 
+may 26, 2013 24:29:19.54 (process:5196): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 26, 2013 24:29:19.56 Error: No running window found
+may 26, 2013 24:29:19.63 
+may 26, 2013 24:29:19.63 (process:5202): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed
+may 26, 2013 24:29:23.71 
+may 26, 2013 24:29:23.71 (firefox:5202): LIBDBUSMENU-GLIB-WARNING **: Translation has an invalid value 'I-->D' for default text direction.  Defaulting to left-to-right.
+may 26, 2013 24:29:26.96 
+may 26, 2013 24:29:26.96 (process:5256): GLib-CRITICAL **: g_slice_set_config: assertion `sys_page_size == 0' failed

@@ -6,6 +6,18 @@
  <description>Welcome to the home of Spring, the leading platform to build and run enterprise Java applications. Led and sustained by SpringSource, Spring delivers significant benefits for many projects, increasing development productivity and runtime performance while improving test coverage and application quality.</description>
  <language>en</language>
 <item>
+ <title>Spring Integration 3.0 Milestone 2 is Now Available</title>
+ <link>http://www.springsource.org/node/22613</link>
+ <description>&lt;p&gt;We are pleased to announce that the &lt;a href=&quot;http://www.springsource.com/download/community?project=Spring%20Integration&quot;&gt;second milestone for Spring Integration 3.0.0&lt;/a&gt; is now available.&lt;/p&gt;
+&lt;p&gt;64 issues are resolved, including many improvements and new features; see the &lt;a href=&quot;http://www.springsource.org/spring-integration/&quot;&gt;Project Home Page&lt;/a&gt; and &lt;a href=&quot;https://jira.springsource.org/secure/ReleaseNote.jspa?projectId=10121&amp;amp;version=14017&quot;&gt;Release Notes&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/22613#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Fri, 24 May 2013 15:19:43 +0000</pubDate>
+ <dc:creator>Gary Russell</dc:creator>
+ <guid isPermaLink="false">22613 at http://www.springsource.org</guid>
+</item>
+<item>
  <title>Building REST-ful services with Spring</title>
  <link>http://www.springsource.org/node/22612</link>
  <description>&lt;div class=&quot;event-nodeapi&quot;&gt;
@@ -547,23 +559,6 @@ North America: Tuesday, May 28&lt;br&gt;
  <pubDate>Tue, 07 May 2013 20:41:42 +0000</pubDate>
  <dc:creator>Pieter Humphrey</dc:creator>
  <guid isPermaLink="false">22604 at http://www.springsource.org</guid>
-</item>
-<item>
- <title>Wishing WaveMaker good luck at Pramati</title>
- <link>http://www.springsource.org/node/22603</link>
- <description>&lt;p&gt;Many of you may have heard about Pramati&#039;s acquisition of  WaveMaker assets from VMware, and we wanted to officially wish them well  here.&amp;nbsp; &amp;nbsp;However, one of WaveMaker&amp;rsquo;s users, in response to the news of the upcoming transition, already &lt;a href=&quot;http://dev.wavemaker.com/blog/2013/03/14/announcing-the-release-of-wavemaker-6-5-3/&quot;&gt;expressed&lt;/a&gt; the sentiment  eloquently:&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;WaveMaker is by far the best tool I have had the  pleasure to use for building real world business apps and websites. You guys  have just put so much clever thinking into it. It&amp;rsquo;s not just a nice ajax screen  painter, but has huge depth with the way it binds to parts within.  &amp;nbsp;Please, Please keep it going.. &lt;br&gt;
-  I would happily pay for it …&amp;rdquo;&lt;br&gt;
-  Comment by jguy — March 20, 2013 @ 7:59 am&lt;/p&gt;
-&lt;p&gt;Well, it&amp;rsquo;s found a new steward and home.&amp;nbsp; The  SpringSource team is confident WaveMaker has a bright future at Pramati, whose  expertise in Java, Cloud and Mobile Computing  will serve it  well.&amp;nbsp;WaveMaker&#039;s recent releases had all been centered  around mobile and cloud support, making it a natural fit for Pramati&#039;s  goals.&amp;nbsp;We wish WaveMaker the best as it evolves - and continues to  generate new classes and types of applications that are at the core, Spring  applications.&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/p&gt;
-&lt;p&gt;Happy WaveMaking,&lt;br&gt;
-  The Spring Team&lt;/p&gt;
-</description>
- <comments>http://www.springsource.org/node/22603#comments</comments>
- <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
- <pubDate>Thu, 02 May 2013 20:36:46 +0000</pubDate>
- <dc:creator>The Spring Team</dc:creator>
- <guid isPermaLink="false">22603 at http://www.springsource.org</guid>
 </item>
 </channel>
 </rss>

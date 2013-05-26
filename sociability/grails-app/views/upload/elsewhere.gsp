@@ -1,0 +1,1 @@
+<img src="${createLink(controller: 'upload', action: 'image')}"/>

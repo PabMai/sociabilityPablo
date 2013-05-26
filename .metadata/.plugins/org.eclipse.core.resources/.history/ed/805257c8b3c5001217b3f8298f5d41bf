@@ -1,0 +1,6 @@
+package ar.com.sociability
+
+class UploadController {
+
+    def index() { }
+}

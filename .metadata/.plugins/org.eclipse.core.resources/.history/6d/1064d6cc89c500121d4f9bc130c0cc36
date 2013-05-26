@@ -1,0 +1,22 @@
+package ar.com.sociability
+
+import org.springframework.web.*
+
+class UploadFileController {
+
+    def index() { 
+		redirect(action: "upload")
+	}
+	
+	def upload() {
+		def uploadedFile = request.getFile( "myFile" )
+		
+		if (uploadedFile.empty) {
+			flash.message = 'file cannot be empty'
+			render(view: 'uploadFile')
+			return
+		}
+		uploadedFile.transferTo(new File('/some/local/dir/myfile.txt'))
+		response.sendError(200, 'Done')
+	}
+}

@@ -1,5 +1,5 @@
 #dependencies
-105
+106
 /home/pablo/.grails/ivy-cache/org.springframework.uaa/org.springframework.uaa.client/bundles/org.springframework.uaa.client-1.0.1.RELEASE.jar
 /home/pablo/.grails/ivy-cache/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar
 /home/pablo/.grails/ivy-cache/com.googlecode.json-simple/json-simple/jars/json-simple-1.1.jar
@@ -26,6 +26,7 @@
 /home/pablo/.grails/ivy-cache/org.apache.tomcat.embed/tomcat-embed-logging-log4j/jars/tomcat-embed-logging-log4j-7.0.39.jar
 /home/pablo/.grails/ivy-cache/org.apache.tomcat.embed/tomcat-embed-jasper/jars/tomcat-embed-jasper-7.0.39.jar
 /home/pablo/.grails/ivy-cache/org.apache.tomcat/tomcat-catalina-ant/jars/tomcat-catalina-ant-7.0.39.jar
+/home/pablo/git/sociability/sociability/lib/spring-web-3.0.4.RELEASE.jar
 /home/pablo/.grails/ivy-cache/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.8.jar
 /home/pablo/.grails/ivy-cache/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.8.3.jar
 /home/pablo/.grails/ivy-cache/commons-el/commons-el/jars/commons-el-1.0.jar

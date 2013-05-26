@@ -1,0 +1,21 @@
+package ar.com.sociability
+
+@Grab(group='commons-net', module='commons-net', version='3.2')
+import org.apache.commons.net.ftp.FTPClient
+
+class FTPClient {
+
+	new FTPClient().with {
+		connect "ftp server address here"
+		enterLocalPassiveMode()
+		login "username", "password"
+		changeWorkingDirectory "directory the file is in"
+		fileType = FTPClient.BINARY_FILE_TYPE
+		def incomingFile = new File("localfilename")
+		incomingFile.withOutputStream { ostream -> retrieveFile "remotefilename", ostream }
+		disconnect()
+	}
+
+    static constraints = {
+    }
+}

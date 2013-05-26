@@ -30,7 +30,7 @@
 		<guid isPermaLink="false">http://blog.springsource.org/?p=13431</guid>
 		<description><![CDATA[As you may have seen, the first milestone of Spring Framework 4.0 was already announced and with it we&#039;ve released early WebSocket support. Why WebSocket matters? It enables efficient, two-way communication over the web that is essential in applications where messages need to be exchanged between client (typically browser) and server at high frequency and  <a href="http://blog.springsource.org/2013/05/22/spring-framework-4-0-m1-websocket-support/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/05/22/spring-framework-4-0-m1-websocket-support/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+		<slash:comments>4</slash:comments>
 		</item>
 		<item>
 		<title>Spring Framework 4.0 M1 &amp; 3.2.3 available</title>
@@ -44,7 +44,7 @@
 		<guid isPermaLink="false">http://blog.springsource.org/?p=13378</guid>
 		<description><![CDATA[Dear Spring community, It&#039;s my pleasure to announce the first milestone towards Spring Framework 4.0, delivering a first cut of our work on several key themes: the first wave of Java SE 8 / OpenJDK 8 support (some details following below) initial support for JMS 2.0, JPA 2.1, Bean Validation 1.1, and JSR-236 concurrency (from  <a href="http://blog.springsource.org/2013/05/21/spring-framework-4-0-m1-3-2-3-available/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/05/21/spring-framework-4-0-m1-3-2-3-available/feed/</wfw:commentRss>
-		<slash:comments>7</slash:comments>
+		<slash:comments>9</slash:comments>
 		</item>
 		<item>
 		<title>Reactor &#8211; a foundation for asynchronous applications on the JVM</title>

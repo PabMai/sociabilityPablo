@@ -1,0 +1,10 @@
+package ar.com.sociability
+
+class Imagen {
+	
+	String nombre
+	String bytes 
+
+    static constraints = {
+    }
+}

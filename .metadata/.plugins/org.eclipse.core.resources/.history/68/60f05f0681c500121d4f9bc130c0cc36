@@ -1,0 +1,12 @@
+package ar.com.sociability
+
+class Imagen {
+	
+	byte[] archivo
+	
+    static constraints = {
+        // Limite de tamaño para subir archivos hasta 2MB
+		
+        imagen maxSize: 1024 * 1024 * 2
+    }
+}
